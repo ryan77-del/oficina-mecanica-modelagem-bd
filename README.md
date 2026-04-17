@@ -21,7 +21,7 @@ Modelar o funcinamento de um sistema de gerenciamento de ordens de serviço em u
 - Uma equipe é formada por vários mecânicos.
 - Uma ordem de serviço pode conter vários serviços e várias peças
 
-Arquivos 🗃:
+# Arquivos 🗃:
 - Imagem do diagrama
 - Arquivo do MySQL 
 
