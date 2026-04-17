@@ -1,5 +1,5 @@
 ## 📊 Diagrama do Banco de Dados
-![Diagrama](oficina-mecanica-modelagem-bd/Sistema%de%Gestão%de%Ordens%de%Serviço/imagem/diagrama-oficina.png)
+![Diagrama da Oficina](modelagem-bd-oficina/imagem/diagrama-oficina.png)
 
 
 
